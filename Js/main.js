@@ -1,5 +1,5 @@
 'use strict'
-       while(true){
+       while(true) {
         const result = prompt('日本の首都は？')
         if(result === '東京') {
           break;
