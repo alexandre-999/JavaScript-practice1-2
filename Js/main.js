@@ -7,5 +7,4 @@ while( true ){
    break ;
  } else {
    alert( '不正解です！' ) ;
- } ;
-} ;
+ }} ;
